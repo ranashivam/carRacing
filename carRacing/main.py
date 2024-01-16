@@ -279,3 +279,4 @@ while True:
         gameInfo.reset()
         playerCar.reset()
         computerCar.reset()
+
